@@ -1,0 +1,8 @@
+query,type,result
+"2 + 2",calc,"4"
+"2+2",calc,"4"
+"4 uah to usd",currency,"0[.]1.+"
+"queries.",fsearch,"queries.csv"
+"$JAVA_HOME",bash,"/usr/lib/jvm.+"
+"weather",weather,"weather in.+"
+"http://google",browser,"google.com"
